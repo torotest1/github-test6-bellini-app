@@ -34,7 +34,7 @@
       "id": "badge",
       "expressions": [
         {
-          "expression": "\"test again\"",
+          "expression": "\"test again and again\"",
           "to": "text"
         }
       ],
