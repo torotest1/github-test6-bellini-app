@@ -2,5 +2,18 @@
   "name": "github-test6",
   "type": "app",
   "defaultPage": "home",
-  "config": null
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {},
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "environments": []
+  }
 }
