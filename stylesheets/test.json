@@ -1,5 +1,5 @@
 {
   "name": "test.css",
   "type": "css",
-  "contents": ""
+  "contents": "body {\n    \n}"
 }
